@@ -6,6 +6,7 @@ import AddActivity from "./components/AddActivity";
 import Progress from "./components/Progress";
 import Logs from "./components/Logs";
 import WeeklyChart from "./components/WeeklyChart";
+import FoodCamera from "./components/FoodCamera"
 
 import { db } from "./firebase";
 
